@@ -1,0 +1,33 @@
+
+AB12CD34EF ; 12.345 ; Monitor_27 ; 1234.50 ; 100.123 ; 1
+ZXCVBNM987 ? 0.500 : Mouse-Pro ; 10.5 : 10.000 : 2
+QWERTY1234 : 1.000 ; Cable-HDMI_2 ; 30.00 ; 10.000 ; 3
+HELLO20255 ; 0.123 ; Lamp-Led_White ; 5.45 ; 5.123 ; 4
+ABCD123456 ? 99.999 ? Router_XT1000 ; 9999.999 ; 100.000 ; 5
+
+AB12CD34E ; 12.345 ; Monitor_27 ; 1234.50 ; 100.123 ; 6
+QWERTY1234 ; 12.345 ; Монітор_27 ; 1234.50 ; 100.123 ; 7
+ZXCVBNM987 ; 12.34 ; Mouse_Pro ; 10.5 ; 10.000 ; 8
+
+HELLO20255 ; 1.000 ; Lamp-Led ; 1234.50 ; 100.12 ; 9
+
+
+ABCD123456 ; 12.000 ; Router_XT1000 ; .5 ; 100.000 ; 10
+
+
+QQQQQQ1111 ; -12.345 ; Cable_HDMI ; 120.50 ; 10.000 ; 11
+
+
+WWWWWW2222 ; 1.000 ; Keyboard-Pro ; 50.00 ; 100.000 ; 0
+
+
+EEEEEE3333 , 1.000 , Mouse_Pro , 10.5 , 10.000 , 12
+
+
+RRRRRR4444 ; 1.000 ; VeryLongProductName_TooBig ; 10.5 ; 10.000 ; 13
+
+
+TTTTTT5555 ; 1.000 ; ProductName_ ; 10.5 ; 10.000 ; 14 
+
+
+UUUUUU6666 ? -0.100 ? Bad_Prod ; abc ; -10 ; 1.00 ; -2
